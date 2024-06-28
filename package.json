@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "description": "this is just practice of react library",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
